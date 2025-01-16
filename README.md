@@ -14,14 +14,14 @@ I have recently read [this great article](https://medium.com/robotics-weekends/h
 2. What we will need from it is the PCB to which the cameras are connected (without the LED, as it connects to a PCB which we will not use), the aluminum chassis with the cameras, the cooling fan, some of the screws and standoffs, and the lens plastic holder with the lenses.
 3. Cover the cameras and the IR transmitter with tape and cut the aluminum chassis with a saw next to the cameras. One cut will be next to the two cameras - when looking from the inside - right next to the white plastics, and the other will just remove the bent part next to the IR transmitter. See the photos of how it should look afterward. Remember to clean everything from the shavings.
 
-![cut chassis](./images/cut chassis.png)
+![cut chassis](images/cut chassis.png)
 
 4. Get the case and add the lenses (note that the IR projector one has a small notch) and insert them into the case. Add the plastic holder on top and screw it in (it might need a corner cut).
 5. Insert the PCB correctly onto the camera PCB - either use the standoffs with the included screws and then push the small connector in, or push the connector in first so that the small connector connects to the middle pins (with one row on the left and one on the right unconnected). Now is a good time to test things out.
 6. Screw the camera PCB into the cut aluminum chassis and connect the cameras, fan, and the IR transmitter (every cable should be connected by now).
 7. Insert the fan with the cable sticking up and the rubber padding away from the air intake.
 
-![case with fan](./images/case with fan.png)
+![case with fan](images/case with fan.png)
 
 8. Screw in the chassis assembly.
 9. Screw in the back plate, and you are done.
