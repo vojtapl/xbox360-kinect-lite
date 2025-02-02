@@ -26,6 +26,12 @@ I have recently read [this great article](https://medium.com/robotics-weekends/h
 8. Screw in the chassis assembly.
 9. Screw in the back plate, and you are done.
 
+## Power consumption
+The measurements were made with KWS-2301C, a cheap USB-C power meter.
+- Idle
+![Idle power consumption](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/power%consumption%idle.png?raw=true)
+- Running with `freenect-regview`
+![Idle power consumption](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/power%consumption%running.png?raw=true)
+
 ## TODO
 - add photos of the finished camera
-- add photos of measured current consumption
