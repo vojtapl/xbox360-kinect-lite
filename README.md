@@ -29,9 +29,9 @@ I have recently read [this great article](https://medium.com/robotics-weekends/h
 ## Power consumption
 The measurements were made with KWS-2301C, a cheap USB-C power meter.
 - Idle
-![Idle power consumption](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/power%consumption%idle.png?raw=true)
+![Idle power consumption](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/power%20consumption%20idle.png?raw=true)
 - Running with `freenect-regview`
-![Idle power consumption](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/power%consumption%running.png?raw=true)
+![Idle power consumption](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/power%20consumption%20running.png?raw=true)
 
 ## TODO
 - add photos of the finished camera
