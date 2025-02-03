@@ -33,5 +33,12 @@ The measurements were made with KWS-2301C, a cheap USB-C power meter.
 - Running with `freenect-regview`
 ![Idle power consumption](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/power%20consumption%20running.png?raw=true)
 
-## TODO
-- add photos of the finished camera
+## Images
+On the ruler look at the top scale, as that one is in centimeters.
+- View from right
+![View from right](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/view%20from%20right.png?raw=true)
+- View from side
+![View from side](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/view%20from%20side.png?raw=true)
+- View from above
+![View from above](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/view%20from%20above.png?raw=true)
+
