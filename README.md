@@ -41,4 +41,6 @@ On the ruler look at the top scale, as that one is in centimeters.
 ![View from side](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/view%20from%20side.png?raw=true)
 - View from above
 ![View from above](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/view%20from%20above.png?raw=true)
+- PCB
+![PCB](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/pcb.png?raw=true)
 
