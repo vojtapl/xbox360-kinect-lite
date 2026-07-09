@@ -26,6 +26,11 @@ I have recently read [this great article](https://medium.com/robotics-weekends/h
 8. Screw in the chassis assembly.
 9. Screw in the back plate, and you are done.
 
+## Frequently Asked Questions
+
+- What to do with the thermistor (see image provided by Bolb347 bellow)? As it connects to the mainboard, which we do not use and it seems to work flawlessly without it, you can throw it out.
+![thermisotr image](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/thermistor.jpeg?raw=true)
+
 ## Power consumption
 The measurements were made with KWS-2301C, a cheap USB-C power meter.
 - Idle
@@ -41,6 +46,5 @@ On the ruler look at the top scale, as that one is in centimeters.
 ![View from side](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/view%20from%20side.png?raw=true)
 - View from above
 ![View from above](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/view%20from%20above.png?raw=true)
-- PCB
-![PCB](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/pcb.png?raw=true)
-
+- New PCB (image provided by Bolb347)
+![PCB](https://github.com/vojtapl/xbox360-kinect-lite/blob/main/images/pcb%20new.png?raw=true)
